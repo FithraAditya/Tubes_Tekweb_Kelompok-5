@@ -53,7 +53,7 @@
                         <p>Minuman</p>
                     </div>
                     <div class="icon text-indigo">
-                        <i class="ion ion-spoon"></i>
+                        <i class="ion ion-coffee"></i>
                     </div>
                 </div>
             </div>
@@ -70,7 +70,7 @@
                         <p>Makanan</p>
                     </div>
                     <div class="icon text-indigo">
-                        <i class="ion ion-coffee"></i>
+                         <i class="ion ion-spoon"></i>
                     </div>
                 </div>
             </div>
